@@ -1,0 +1,15 @@
+{
+    "accounts": ["637423349711", "488675217017"],
+    "group_name": "cloudadmin",
+    "permission_set_name": "cloudadmin",
+    "aws_managed_policies": [
+      "arn:aws:iam::aws:policy/CloudWatchReadOnlyAccess"
+    ],
+    "custom_managed_policies": [
+      "cloudadmin"
+    ],
+    "gmail_users": [
+    "94jjba@gmail.com"
+  ]
+}
+  

@@ -1,0 +1,16 @@
+{
+    "accounts": ["637423349711"],
+    "group_name": "developer-9711",
+    "permission_set_name": "developer-9711",
+    "aws_managed_policies": [
+      "arn:aws:iam::aws:policy/CloudWatchReadOnlyAccess"
+    ],
+    "custom_managed_policies": [
+      "developer-to-apigateway-9711",
+      "developer-to-s3-9711"
+    ],
+    "gmail_users": [
+    "94jjba@gmail.com"
+  ]
+}
+  
