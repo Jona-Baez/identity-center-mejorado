@@ -1,0 +1,16 @@
+{
+    "accounts": ["488675217017"],
+    "group_name": "soc-7017",
+    "permission_set_name": "soc-7017",
+    "aws_managed_policies": [
+      "arn:aws:iam::aws:policy/CloudWatchReadOnlyAccess"
+    ],
+    "custom_managed_policies": [
+      "soc-to-cloudtrail-7017",
+      "soc-to-securityhub-7017"
+    ],
+    "gmail_users": [
+    "94jjba@gmail.com"
+  ]
+}
+  
